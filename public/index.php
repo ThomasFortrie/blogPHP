@@ -3,4 +3,4 @@ require '../vendor/autoload.php';
 
 $router = new AltoRouter();
 
-$router->map()
+$router->map();
